@@ -1,6 +1,12 @@
 # Rust OBS Eklentisi Kurulum Kılavuzu
 ![image](https://github.com/user-attachments/assets/70f13b91-1027-4389-ab95-63de6bbac0f1)
 
+
+![image](https://github.com/user-attachments/assets/41c6d50a-2668-42e8-9fe0-3ac0bcc4aba7)
+![image](https://github.com/user-attachments/assets/9ce34952-8621-455c-8be2-0286fe96bffc)
+
+
+
 Bu OBS eklentisi, oyun sırasında "G" tuşuna basılı tutulduğunda rastgele video göstermeyi sağlar.
 
 ## Gereksinimler
